@@ -1,1 +1,3 @@
-public class newBran2{}
+package com.hjc.newBran2;
+
+public class NewBran2{}
